@@ -1,0 +1,12 @@
+ZnCar/Test/1.jpg 0 0
+ZnCar/Test/2.jpg 0 0
+ZnCar/Test/3.jpg 0 1
+ZnCar/Test/4.jpg 0 1
+ZnCar/Test/5.jpg 1 0
+ZnCar/Test/6.jpg 1 0
+ZnCar/Test/7.jpg 1 1
+ZnCar/Test/8.jpg 1 1
+ZnCar/Test/9.jpg 2 0
+ZnCar/Test/10.jpg 2 0
+ZnCar/Test/11.jpg 2 1
+ZnCar/Test/12.jpg 2 1

@@ -1,0 +1,10 @@
+Audi : 0
+BMW  : 1
+Benz : 2
+
+
+Sedan: 0
+SUV  : 1
+
+For instance, if there is a Audi SUV in the picture, the label's format would be£º
+xxx.jpg 0 1
