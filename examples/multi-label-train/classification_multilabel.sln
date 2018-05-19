@@ -5,16 +5,26 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "classification_multilabel", "classification_multilabel.vcxproj", "{2C1D9BE9-3677-47F7-8204-423C6B8E6A9A}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "py", "py\py.pyproj", "{F5D4281D-68B5-4342-89C7-F77F9CC15529}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
 		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
 		Release|x64 = Release|x64
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C1D9BE9-3677-47F7-8204-423C6B8E6A9A}.Debug|Any CPU.ActiveCfg = Debug|x64
 		{2C1D9BE9-3677-47F7-8204-423C6B8E6A9A}.Debug|x64.ActiveCfg = Debug|x64
 		{2C1D9BE9-3677-47F7-8204-423C6B8E6A9A}.Debug|x64.Build.0 = Debug|x64
+		{2C1D9BE9-3677-47F7-8204-423C6B8E6A9A}.Release|Any CPU.ActiveCfg = Release|x64
 		{2C1D9BE9-3677-47F7-8204-423C6B8E6A9A}.Release|x64.ActiveCfg = Release|x64
 		{2C1D9BE9-3677-47F7-8204-423C6B8E6A9A}.Release|x64.Build.0 = Release|x64
+		{F5D4281D-68B5-4342-89C7-F77F9CC15529}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5D4281D-68B5-4342-89C7-F77F9CC15529}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{F5D4281D-68B5-4342-89C7-F77F9CC15529}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5D4281D-68B5-4342-89C7-F77F9CC15529}.Release|x64.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

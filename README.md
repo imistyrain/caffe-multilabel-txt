@@ -24,7 +24,7 @@ cd examples/multi-label-train
 train.bat
 ```
 
-##测试
+## 测试
 
 ```
 classification.bat
